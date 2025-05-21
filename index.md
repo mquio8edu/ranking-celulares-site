@@ -1,5 +1,3 @@
----
-title: Welcome to my blog
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
